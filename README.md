@@ -1,6 +1,6 @@
 SQL Daily Training — Finance & Fintech
 
-A collection of daily SQL exercises designed to simulate the day-to-day work of a Data Scientist at a finance or fintech company.
+A collection of daily SQL exercises prepared by Claude AI designed to simulate the day-to-day work of a Data Scientist at a finance or fintech company.
 
 Each exercise includes:
 
