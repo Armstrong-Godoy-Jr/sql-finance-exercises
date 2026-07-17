@@ -57,7 +57,7 @@ LEFT JOIN
     transactions t
 		ON a.account_id = t.account_id AND
 		YEAR(t.txn_date) = 2024 AND
-		MONTH(t.txn_date) = 1
+		MONTH(t.txn_date) = 01
 ORDER BY
 	c.full_name, t.txn_date;
 
